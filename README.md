@@ -1,4 +1,4 @@
-## Oi! Eu sou Débora👋
+## Oi! Eu sou Débora👾
 
 - 🎓 Cursando: Informática - IFCE
 - 🔧 Projetos pessoais
