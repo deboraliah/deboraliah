@@ -25,6 +25,7 @@ cursando informática e atualmente no 4 semestre!
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-062F6A?style=for-the-badge&logo=html5&logoColor=white)
