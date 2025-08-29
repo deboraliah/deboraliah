@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=c263f9&width=1000&lines=ᴏʟá, ᴇᴜ+ꜱᴏᴜ+ᴅéʙᴏʀᴀ👾!;Seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=c263f9&width=1000&lines=Olá,+eu+sou+Débora+👾!;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 Agora, a cor do texto será roxa!
 
