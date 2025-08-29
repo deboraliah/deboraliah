@@ -9,7 +9,8 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Eu sou Débora Liah, estudante do Instituto Federal do Ceará, cursando informática e atualmente no 4 semestre!
+Eu sou Débora Liah, estudante do Instituto Federal do Ceará,
+cursando informática e atualmente no 4 semestre!
 
 [![Instagram](https://img.shields.io/badge/-xx.deboraz_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xx.deboraz_/)](https://instagram.com/xx.deboraz_)
 
