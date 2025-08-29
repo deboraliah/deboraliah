@@ -1,4 +1,8 @@
-## Oi! Eu sou Débora👾
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=c263f9&width=1000&lines=Olá,eu+sou+Débora+👾!;Desenvolvedor+de+Software!💻)](https://git.io/typing-svg)
+
+Agora, a cor do texto será roxa!
 
 - 🎓 Cursando: Informática - IFCE
 - 🧠 Experimentando novas tecnologias!
@@ -20,6 +24,6 @@ cursando informática e atualmente no 4 semestre!
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-062F6A?style=for-the-badge&logo=html5&logoColor=white)
