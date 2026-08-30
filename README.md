@@ -61,7 +61,7 @@
 ## Mais sobre mim...! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Eu sou Débora Liah, estudante do Instituto Federal do Ceará,
-cursando informática e atualmente no 4 semestre!
+cursando informática e atualmente no 6° semestre!
 
 [![Instagram](https://img.shields.io/badge/deboraliah_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/deboraliah_/)](https://instagram.com/deboraliah_)
 
