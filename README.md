@@ -63,5 +63,5 @@
 Eu sou Débora Liah, estudante do Instituto Federal do Ceará,
 cursando informática e atualmente no 4 semestre!
 
-[![Instagram](https://img.shields.io/badge/-xx.deboraz_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/deboraliah_/)](https://instagram.com/deboraliah_)
+[![Instagram](https://img.shields.io/badge/deboraliah_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/deboraliah_/)](https://instagram.com/deboraliah_)
 
