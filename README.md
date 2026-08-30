@@ -73,3 +73,59 @@ cursando informática e atualmente no 4 semestre!
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-062F6A?style=for-the-badge&logo=html5&logoColor=white)
+
+<div align="center">
+
+  
+
+  <img 
+
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+
+    width="50"
+
+    alt="Java"
+
+  />
+
+  
+
+  <img 
+
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+
+    width="50"
+
+    alt="SQL"
+
+  />
+
+  
+
+  <img 
+
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
+
+    width="50"
+
+    alt="Eclipse"
+
+  />
+
+  
+
+  <img 
+
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+
+    width="50"
+
+    alt="Python"
+
+  />
+
+  
+
+  <img 
+
+    src="https://cdn.j
